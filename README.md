@@ -1,2 +1,2 @@
 # astr-19
-Code for repository for ASTR 19
+Code repository for ASTR 19
